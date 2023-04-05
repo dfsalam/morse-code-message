@@ -12,3 +12,13 @@ def character(x)
     counter = counter + 1    
     }
 end
+
+def word(x)
+  arr = x.split
+  result = ''
+  arr.each{
+    |letter|
+    result += character(letter);
+  }
+  return result
+end
