@@ -53,6 +53,7 @@ The user needs to run the commands inside main.rb on irb environment.
 In order to run this project you need to install Ruby.
 
 ### Setup
+- Clone the project with git clone https://github.com/dfsalam/morse-code-message.git
 
 - Execute the methods inside `main.rb` to run the program.
 
@@ -91,7 +92,7 @@ In order to run this project you need to install Ruby.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/dfsalam/morse-code-message/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
