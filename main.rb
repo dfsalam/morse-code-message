@@ -22,3 +22,13 @@ def word(x)
   }
   return result
 end
+
+def phrase(x)
+  arrWords = x.split('   ', -1)
+  result = ''
+  arrWords.each{
+    |element|
+    result += word(element) + " ";
+  }
+  return result
+end
